@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba4ChM", "Laba4ChM\Laba4ChM.csproj", "{F3DFE796-BE31-44BC-800E-A92334B74F28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary4ChM", "ClassLibrary4ChM\ClassLibrary4ChM.csproj", "{93C41139-EDFB-4D99-BAB8-05213C78EBD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3DFE796-BE31-44BC-800E-A92334B74F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DFE796-BE31-44BC-800E-A92334B74F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DFE796-BE31-44BC-800E-A92334B74F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DFE796-BE31-44BC-800E-A92334B74F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C41139-EDFB-4D99-BAB8-05213C78EBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C41139-EDFB-4D99-BAB8-05213C78EBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C41139-EDFB-4D99-BAB8-05213C78EBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C41139-EDFB-4D99-BAB8-05213C78EBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E74781-9549-4E78-970E-0CEBDE3F8088}
+	EndGlobalSection
+EndGlobal
